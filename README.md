@@ -7,6 +7,7 @@
 ## Tech Stack
 
 ### Languages
+<<<<<<< HEAD
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -43,3 +44,14 @@
 <img src="https://komarev.com/ghpvc/?username=devanshkant&color=red&style=flat-square&label=Visitors+Count" />
   <br>
 💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+=======
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+Sourcetree
+
+## Connect With Me
+
+[![LinkedIn]()
+>>>>>>> 623677f99f5c02dd667ea431e45fd329c6e05185
